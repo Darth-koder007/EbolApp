@@ -23,6 +23,8 @@ public class SplashActivity extends AppCompatActivity {
 
         Parse.initialize(this, "H1AruCUvoF6jVvanogGDu5p4flZLAgfP17g075nD", "mICIB0VVU7pLIqfr2sYxLHd87MjToCQw56DNng9r");
 
+
+
         Runnable runnable3Secs = new Runnable() {
             @Override
             public void run() {
